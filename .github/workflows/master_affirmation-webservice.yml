@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'affirmation-webservice'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_4c85b66ac7144d97be2a825b09cc9189 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7aef577f386e4d1c8987931ce710b5bf }}
         package: .
