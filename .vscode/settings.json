@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/09e32d72-403c-4b74-a61a-d74ff56f3099/resourceGroups/Affirmation/providers/Microsoft.Web/sites/affirmation",
+    "appService.deploySubpath": "."
+}
